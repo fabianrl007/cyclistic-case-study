@@ -97,4 +97,4 @@ This project is for educational purposes. The original data is available under t
 
 **Link to Medium Post:**
 
-\[https://medium.com/p/36e87aee35bb/edit]
+\[https://medium.com/@fabianrl007/introduction-36e87aee35bb]
